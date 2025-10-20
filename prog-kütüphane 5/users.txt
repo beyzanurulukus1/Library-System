@@ -1,0 +1,10 @@
+1 admin admin123 admin -1 -1 -1
+2 beyza 12345 ogrenci 3 3 -1
+3 ali abcde personel -1 -1 -1
+4 süleyman 4647 ogrenci -1 -1 -1
+5 pınar 2345 personel 3 -1 -1
+6 eyüp 4545 ogrenci -1 -1 -1
+7 personel 0101 personel -1 -1 -1
+8 züleyha z123 ogrenci -1 -1 -1
+9 numan numan123 ogrenci -1 -1 -1
+10 bahar 001 personel -1 -1 -1

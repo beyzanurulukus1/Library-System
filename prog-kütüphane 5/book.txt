@@ -1,0 +1,11 @@
+1 budala dostoyevski roman 0 -1 -
+2 inci john_steinbeck hikaye 0 -1 -
+3 suç_ve_ceza dostoyevski roman 1 5 08/06/2025
+4 sevda_sözleri cemal_süreya şiir 0 -1 -
+5 sefiller victor_hugo roman 0 -1 -
+6 atomik_alışkanlıklar james_clear kişisel_gelişim 0 -1 -
+7 Bir_Ömür_Nasıl_Yaşanır İlber_Ortaylı kişisel_gelişim 0 -1 -
+8 Nutuk Mustafa_Kemal_Atatürk söylev 0 -1 -
+9 hey_gidi_istanbul islam_çupi seheyatname 0 -1 -
+10 Bilinmeyen_Bir_Kadının_Mektubu Stefan_Zweig roman 0 -1 -
+11 kırlangıç_çığlığı ahmet_ümit roman 0 -1 -
