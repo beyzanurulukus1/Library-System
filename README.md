@@ -29,12 +29,12 @@ Kullanıcı girişi, kitap listeleme, kitap ödünç alma/iade etme ve rol bazl�
 ---
 
 ## 📁 Proje Yapısı
-
+text
 📦 kutuphane-yonetim
-├── main.c               # Ana kaynak kodu
-├── users.txt            # Kullanıcı verileri
-├── book.txt             # Kitap verileri
-└── README.md            # Proje dokümantasyonu
+`├──` main.c               # Ana kaynak kodu
+`├──` users.txt            # Kullanıcı verileri
+`├──` book.txt             # Kitap verileri
+`└──` README.md            # Proje dokümantasyonu
 
 ---
 
