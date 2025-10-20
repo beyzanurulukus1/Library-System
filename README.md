@@ -72,7 +72,7 @@ gcc main.c -o kutuphane.exe
 kutuphane.exe
 
 
-##✅ Uygulama Özellikleri
+###✅ Uygulama Özellikleri
 	•	Giriş sistemi ve kullanıcı doğrulama
 	•	Rol bazlı yetkilendirme
 	•	Kitap listeleme
@@ -81,7 +81,7 @@ kutuphane.exe
 	•	Modüler ve geliştirilebilir kaynak kodu
 
 
-  ##🧠 Kazanımlar
+  ###🧠 Kazanımlar
 	•	C dilinde fopen, fscanf, fprintf, feof gibi temel fonksiyonların etkin kullanımı
 	•	Gerçek dünya problemlerinin terminal tabanlı çözümleri
 	•	Kullanıcı oturumu ve sistem yönetimi simülasyonu
