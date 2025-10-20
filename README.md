@@ -21,10 +21,10 @@ Kullanıcı girişi, kitap listeleme, kitap ödünç alma/iade etme ve rol bazl�
 
 | Teknoloji | Açıklama |
 |-----------|----------|
-| Dil       | C (ANSI C Standardı) |
-| Platform  | macOS / Linux / Windows (GCC uyumlu) |
-| Arayüz    | Komut satırı (CLI) |
-| Veritabanı| `users.txt` ve `book.txt` üzerinden metin tabanlı saklama |
+|`Dil`       | C (ANSI C Standardı) |
+| `Platform` | macOS / Linux / Windows (GCC uyumlu) |
+| `Arayüz`    | Komut satırı (CLI) |
+| `Veritabanı`| `users.txt` ve `book.txt` üzerinden metin tabanlı saklama |
 
 ---
 
@@ -61,18 +61,18 @@ ID KitapAdı Yazar Tür AlındıMı AlanKullanıcıID TeslimTarihi
 3 suç_ve_ceza dostoyevski roman 1 5 08/06/2025
 
 
-##🚀 Derleme ve Çalıştırma
+## 🚀 Derleme ve Çalıştırma
 
-GCC (Linux/macOS):
-gcc main.c -o kutuphane
-./kutuphane
+	GCC (Linux/macOS):
+		gcc main.c -o kutuphane
+		./kutuphane
 
-Windows (MinGW):
-gcc main.c -o kutuphane.exe
-kutuphane.exe
+	Windows (MinGW):
+		gcc main.c -o kutuphane.exe
+		kutuphane.exe
 
 
-##✅ Uygulama Özellikleri
+## ✅ Uygulama Özellikleri
 	•	Giriş sistemi ve kullanıcı doğrulama
 	•	Rol bazlı yetkilendirme
 	•	Kitap listeleme
@@ -80,7 +80,7 @@ kutuphane.exe
 	•	Dosya bazlı veri kaydı
 	•	Modüler ve geliştirilebilir kaynak kodu
 
-##🧠 Kazanımlar
+## 🧠 Kazanımlar
 	•	C dilinde fopen, fscanf, fprintf, feof gibi temel fonksiyonların etkin kullanımı
 	•	Gerçek dünya problemlerinin terminal tabanlı çözümleri
 	•	Kullanıcı oturumu ve sistem yönetimi simülasyonu
